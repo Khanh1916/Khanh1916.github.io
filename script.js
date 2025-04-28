@@ -4,10 +4,10 @@ $(document).ready(function () {
      */
     var content = [{
         title: "Hello Rùa người mà anh suy nghĩ rất nhiều gần đây ",
-        desc: "Hôm nay anh tới đây để mang những lời nhắn nhủ tới emm đó mong em sẽ lắng nghe Rùaa nháa"
+        desc: "Hôm nay anh ở đây để mang những lời nhắn nhủ tới emm đó mong em sẽ lắng nghe Rùaa nháa"
     }, {
         title: "1.Lời xin lũi từ aaa ạ!!!",
-        desc: "Rùa này , anh xin lỗi về những lúc đã làm anh buồn và không vui. Anh thực sự hối hận về những hành động và lời nói không đúng đắn của mình. Anh nhận ra rằng anh đã gây ra sự chán nản và phiền muộn cho em, và điều đó làm anh cảm thấy rất xấu hổ. Anh biết rằng mqh của anh và Rùa cần được bảo vệ và chăm sóc, và anh sẽ cố gắng hơn nữa để không gây ra những xích mích và hiểu lầm. Mong Rùa có thể tha thứ cho anh và tiếp tục đồng hành cùng anh với thấu hiểu và đồng cảm, Rùa nha."
+        desc: "Rùa này , anh xin lỗi về những lúc đã làm em buồn và không vui. Anh thực sự hối hận về những hành động và lời nói không đúng đắn của mình. Anh nhận ra rằng anh đã gây ra sự chán nản và phiền muộn cho em, và điều đó làm anh cảm thấy rất xấu hổ. Anh biết rằng mqh của anh và Rùa cần được bảo vệ và chăm sóc, và anh sẽ cố gắng hơn nữa để không gây ra những xích mích và hiểu lầm. Mong Rùa có thể tha thứ cho anh và tiếp tục đồng hành cùng anh với thấu hiểu và đồng cảm, Rùa nha."
     }, {
        title: "2.Lời cảm ơn từ anh ạ",
        desc: "Rùa ơi, trong vài tháng qua (nghe thì ngắn mà dài ha), em đã là một phần không thể thiếu như là thói quen của anh vậy. Thức dậy lý do đầu tiên để anh cầm điện thoại sau tắt báo thức là nhắn tin cho em á. Em đem lại cho anh nhiều niềm vui, hạnh phúc và sự ấm áp không ngừng nghỉ. Anh muốn dành những dòng này để bày tỏ lòng biết ơn sâu sắc đến em vì tất cả những điều tuyệt vời mà em đã mang lại. Em đã luôn ở bên cạnh, hỗ trợ và động viên anh trong mọi khó khăn. Những lúc anh gặp bế tắc nhất, em luôn là người đứng đầu tiên xuất hiện để nghe anh than thở và lắng nghe anh. Bằng cách lắng nghe và đồng cảm, em chứng minh cho anh thấy hóa ra cũng có người đồng điệu và sẵn sàng lắng nghe anh mọi lúc mọi nơi. Em là người đã giúp anh nhận ra nhiều sai lầm, học được nhiều bài học để anh hoàn thiện bản thân mình từng ngày. Anh xin em nha!!!"
